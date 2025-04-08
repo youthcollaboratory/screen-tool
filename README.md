@@ -1,3 +1,3 @@
 # Voila Screening App
 
-A text and URL screening tool using ipywidgets and Voila.
+This app scans text or URLs for flagged terms and highlights them using a policy CSV.

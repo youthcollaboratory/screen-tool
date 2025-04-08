@@ -1,1 +1,1 @@
-web: bash -c 'voila screen.ipynb --port=$PORT --no-browser'
+web: bash -c 'voila screen.ipynb --no-browser --port=$PORT'
