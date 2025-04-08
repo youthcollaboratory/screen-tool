@@ -1,3 +1,3 @@
-# Voila Screening App
+# Trusted Voila Screening App
 
-This app scans text or URLs for flagged terms and highlights them using a policy CSV.
+This version of the app includes a trusted notebook and fixes all known deployment issues.
