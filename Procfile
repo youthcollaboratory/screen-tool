@@ -1,1 +1,1 @@
-web: voila app.ipynb --port=$PORT --no-browser --allow-root
+web: voila app.ipynb --port=$PORT --no-browser
